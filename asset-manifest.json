@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ee4d154.css",
-    "main.js": "/static/js/main.111fe6d9.js",
+    "main.css": "/static/css/main.bc2d444d.css",
+    "main.js": "/static/js/main.969d85d5.js",
+    "static/media/animated_harsha.png": "/static/media/animated_harsha.713fa189db1c59813e7e.png",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/RoadRage.otf": "/static/media/RoadRage.03e8327bbbb7b1abbae9.otf",
@@ -26,7 +27,6 @@
     "static/media/animated_logo.svg": "/static/media/animated_logo.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
-    "static/media/animated_harsha.png": "/static/media/animated_harsha.dc7bb6324759287c6cae.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
@@ -52,11 +52,11 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.4ee4d154.css.map": "/static/css/main.4ee4d154.css.map",
-    "main.111fe6d9.js.map": "/static/js/main.111fe6d9.js.map"
+    "main.bc2d444d.css.map": "/static/css/main.bc2d444d.css.map",
+    "main.969d85d5.js.map": "/static/js/main.969d85d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee4d154.css",
-    "static/js/main.111fe6d9.js"
+    "static/css/main.bc2d444d.css",
+    "static/js/main.969d85d5.js"
   ]
 }
