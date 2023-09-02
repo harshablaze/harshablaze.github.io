@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.06706b6c.css",
-    "main.js": "/static/js/main.92c64751.js",
+    "main.css": "/static/css/main.23990fd6.css",
+    "main.js": "/static/js/main.3e72f239.js",
     "static/media/cloud.png": "/static/media/cloud.6eee0c3c8343bc31642d.png",
     "static/media/devops.jpg": "/static/media/devops.5f49ebd58d9e295f5a05.jpg",
     "static/media/animated_harsha.png": "/static/media/animated_harsha.713fa189db1c59813e7e.png",
@@ -67,14 +67,15 @@
     "static/media/fullstack.svg": "/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
     "index.html": "/index.html",
+    "static/media/blobanimation.svg": "/static/media/blobanimation.1338eab0ebfa0613ae9c.svg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.06706b6c.css.map": "/static/css/main.06706b6c.css.map",
-    "main.92c64751.js.map": "/static/js/main.92c64751.js.map"
+    "main.23990fd6.css.map": "/static/css/main.23990fd6.css.map",
+    "main.3e72f239.js.map": "/static/js/main.3e72f239.js.map"
   },
   "entrypoints": [
-    "static/css/main.06706b6c.css",
-    "static/js/main.92c64751.js"
+    "static/css/main.23990fd6.css",
+    "static/js/main.3e72f239.js"
   ]
 }
