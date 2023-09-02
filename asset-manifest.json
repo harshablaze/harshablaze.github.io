@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.54108de2.css",
-    "main.js": "/static/js/main.d2984628.js",
+    "main.js": "/static/js/main.ec58b2eb.js",
     "static/media/cloud.png": "/static/media/cloud.6eee0c3c8343bc31642d.png",
     "static/media/devops.jpg": "/static/media/devops.5f49ebd58d9e295f5a05.jpg",
     "static/media/animated_harsha.png": "/static/media/animated_harsha.713fa189db1c59813e7e.png",
@@ -47,7 +47,6 @@
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/arum_innovations.jpg": "/static/media/arum_innovations.3905f76a5475065f10ad.jpg",
-    "static/media/legato_logo.png": "/static/media/legato_logo.227e72c7979187840ba3.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/static/media/github_logo.15e591a7397b9ef45656.png",
     "static/media/learning.svg": "/static/media/learning.a34bb025a149c7fc762ffe170c7b03c8.svg",
@@ -72,10 +71,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.54108de2.css.map": "/static/css/main.54108de2.css.map",
-    "main.d2984628.js.map": "/static/js/main.d2984628.js.map"
+    "main.ec58b2eb.js.map": "/static/js/main.ec58b2eb.js.map"
   },
   "entrypoints": [
     "static/css/main.54108de2.css",
-    "static/js/main.d2984628.js"
+    "static/js/main.ec58b2eb.js"
   ]
 }
