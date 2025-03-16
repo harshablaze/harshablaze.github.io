@@ -1,10 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.55581c6f.css",
-    "main.js": "/static/js/main.7bd6c7c2.js",
+    "main.js": "/static/js/main.aedf4c65.js",
     "static/js/787.61f74e33.chunk.js": "/static/js/787.61f74e33.chunk.js",
-    "static/media/scholarship.png": "/static/media/scholarship.17a27332acf48eea709d.png",
+    "static/media/Certificate of Appreciation.jpg": "/static/media/Certificate of Appreciation.26e6dd7523fe9a8d83c9.jpg",
+    "static/media/scholarship.png": "/static/media/scholarship.13dc44158c1fcae034b0.png",
+    "static/media/CLD37GBPRFSL.png": "/static/media/CLD37GBPRFSL.89c11894c7b66a68c6c2.png",
+    "static/media/OPNSRC46GBPR.png": "/static/media/OPNSRC46GBPR.59d2c8fcbf36680ea04d.png",
     "static/media/Infra.svg": "/static/media/Infra.846a5d6f3efb5d9751f0.svg",
+    "static/media/Certificate.RISE.NOV24.png": "/static/media/Certificate.RISE.NOV24.fdb177732fd6b3428960.png",
     "static/media/SriHarshaMullapudi.png": "/static/media/SriHarshaMullapudi.df686d4abd90af6c58a4.png",
     "static/media/fullstack.svg": "/static/media/fullstack.9a4740f6fa257448c951.svg",
     "static/media/devops.svg": "/static/media/devops.40970d4cb0d6de491c49.svg",
@@ -13,11 +17,11 @@
     "index.html": "/index.html",
     "static/media/blobanimation.svg": "/static/media/blobanimation.1338eab0ebfa0613ae9c.svg",
     "main.55581c6f.css.map": "/static/css/main.55581c6f.css.map",
-    "main.7bd6c7c2.js.map": "/static/js/main.7bd6c7c2.js.map",
+    "main.aedf4c65.js.map": "/static/js/main.aedf4c65.js.map",
     "787.61f74e33.chunk.js.map": "/static/js/787.61f74e33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55581c6f.css",
-    "static/js/main.7bd6c7c2.js"
+    "static/js/main.aedf4c65.js"
   ]
 }
